@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/sooraj/studio projects/CameraRecorder1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pause.png",
+        "source": "/home/sooraj/studio projects/CameraRecorder1/app/build/generated/res/pngs/debug/drawable-hdpi/pause.png"
+    },
+    {
+        "merged": "/home/sooraj/studio projects/CameraRecorder1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
+        "source": "/home/sooraj/studio projects/CameraRecorder1/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/sooraj/studio projects/CameraRecorder1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/eye.png",
+        "source": "/home/sooraj/studio projects/CameraRecorder1/app/build/generated/res/pngs/debug/drawable-hdpi/eye.png"
+    },
+    {
+        "merged": "/home/sooraj/studio projects/CameraRecorder1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/stop.png",
+        "source": "/home/sooraj/studio projects/CameraRecorder1/app/build/generated/res/pngs/debug/drawable-hdpi/stop.png"
+    },
+    {
+        "merged": "/home/sooraj/studio projects/CameraRecorder1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/play.png",
+        "source": "/home/sooraj/studio projects/CameraRecorder1/app/build/generated/res/pngs/debug/drawable-hdpi/play.png"
+    }
+]
